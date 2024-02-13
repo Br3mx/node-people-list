@@ -1,0 +1,53 @@
+[
+  {
+    "gender": "F",
+    "firtName": "Janina",
+    "lastName": "Gładysz",
+    "age": 62
+  },
+  {
+    "gender": "F",
+    "firtName": "Ania",
+    "lastName": "Konstantynopolitańczykowianowicz",
+    "age": 21
+  },
+  {
+    "gender": "F",
+    "firtName": "Oliwia",
+    "lastName": "Brzęczyszczykiewicz",
+    "age": 74
+  },
+  { "gender": "F", "firtName": "Kasia", "lastName": "Wadyl", "age": 46 },
+  {
+    "gender": "M",
+    "firstName": "Kamil",
+    "lastName": "Andruchowicz",
+    "age": 70
+  },
+  {
+    "gender": "F",
+    "firtName": "Patrycja",
+    "lastName": "Brzęczyszczykiewicz",
+    "age": 66
+  },
+  { "gender": "M", "firstName": "Przemek", "lastName": "Bulanda", "age": 84 },
+  { "gender": "M", "firstName": "Andrzej", "lastName": "Gładysz", "age": 41 },
+  { "gender": "M", "firstName": "Kuba", "lastName": "Gładysz", "age": 70 },
+  { "gender": "F", "firtName": "Janina", "lastName": "Bulanda", "age": 23 },
+  { "gender": "F", "firtName": "Ewa", "lastName": "Wadyl", "age": 62 },
+  { "gender": "M", "firstName": "Grzegorz", "lastName": "Masek", "age": 37 },
+  { "gender": "M", "firstName": "Sebastian", "lastName": "Popa", "age": 63 },
+  { "gender": "F", "firtName": "Alicja", "lastName": "Felsztyński", "age": 79 },
+  {
+    "gender": "M",
+    "firstName": "Adam",
+    "lastName": "Konstantynopolitańczykowianowicz",
+    "age": 51
+  },
+  { "gender": "M", "firstName": "Patryk", "lastName": "Nowak", "age": 38 },
+  { "gender": "F", "firtName": "Kasia", "lastName": "Popa", "age": 32 },
+  { "gender": "M", "firstName": "Kamil", "lastName": "Popa", "age": 51 },
+  { "gender": "M", "firstName": "Paweł", "lastName": "Gładysz", "age": 70 },
+  { "gender": "M", "firstName": "Piotrek", "lastName": "Gładysz", "age": 84 },
+  { "gender": "M", "firstName": "Piotrek", "lastName": "Bulanda", "age": 40 }
+]
